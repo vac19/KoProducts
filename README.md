@@ -24,7 +24,7 @@ Displays Products using knockout.js on custom page.
 ## Known issues
 
 - **Issues will be here .. Hopfuly not**\
-  Woirk in Progress
+  Work in Progress
 
 ## Developer informations
 - vashishtha chauhan / Salecto
