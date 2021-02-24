@@ -1,12 +1,12 @@
-# Catalog/Ko
+# Ko_Prod
 
 KnockOut.js practice module. 
 Displays Products using knockout.js on custom page.
 
 ## Composer install
 
-- `composer config repositories.reponame vcs https://github.com/vac19/CatalogKO`
-- `composer require salecto1/magento2-catalog-ko`
+- `composer config repositories.reponame vcs https://github.com/vac19/KoProducts`
+- `composer require salecto1/magento2-ko-products`
 
 ## Composer uninstall
 
