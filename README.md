@@ -1,12 +1,13 @@
-# Ko_Prod
+# Catalog/Ko
 
 KnockOut.js practice module. 
 Displays Products using knockout.js on custom page.
+URL: `http://127.0.0.1/knockout`
 
 ## Composer install
 
-- `composer config repositories.reponame vcs https://github.com/vac19/KoProducts`
-- `composer require salecto1/magento2-ko-products`
+- `composer config repositories.reponame vcs https://github.com/vac19/CatalogKO`
+- `composer require salecto1/magento2-catalog-ko`
 
 ## Composer uninstall
 
@@ -14,17 +15,17 @@ Displays Products using knockout.js on custom page.
 
 ## Preview will be added
 
-![timer-in-categoryPage](/readme-images/Timer-at-categoryPage.png "timer-in-categoryPage")
+![products](/readme-images/products.png "products on custom page")
 
 
 ## Settings
 
-- Option `will be updated ..` - Under Construction
+- Option `will be updated ..` - no settings
 
 ## Known issues
 
 - **Issues will be here .. Hopfuly not**\
-  Work in Progress
+  No issues
 
 ## Developer informations
 - vashishtha chauhan / Salecto
